@@ -28,7 +28,7 @@ I plan to add more content to this repository in the future. Stay tuned for more
 
 1. Clone the repository to your local machine using the following command:
    ```sh
-   git clone https://github.com/dharmikt1/Python.git
+   https://github.com/DHARMIKT1/Python.git
    ```
 
 2. Navigate to the desired folder and open the Python file you want to run.
